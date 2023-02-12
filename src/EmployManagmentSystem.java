@@ -14,7 +14,7 @@ class MainMenu
     System.out.println("\t\t\t  EMPLOYEE MANAGEMENT SYSTEM");
     System.out.println("\t\t*******************************************");
     System.out.println("\t\t\t    --------------------");
-    System.out.println("\t\t\t ~$MY PVT LIMITED COMAPNY");
+    System.out.println("\t\t\t ~$MY PVT. LIMITED COMAPNY");
     System.out.println("\t\t\t    --------------------");
     System.out.println("\n\nPress 1 : To Add an Employee Details");
     System.out.println("Press 2 : To See an Employee Details ");
@@ -275,3 +275,4 @@ class EmployManagementSystem
     }
   }
 }
+         *******************THANK_YOU***************************
