@@ -1,7 +1,0 @@
-Employee ID:101
-Employee Name     :SANIDHYA YADAV
-Father's Name     :MR. MAHENDRA YADAV
-Employee Contact  :9589442190
-Email Information :SANIDHYA.2001YADAV@GMAIL.COM
-Employee position :JAVA DEVELOPER
-Employee Salary   :10000
